@@ -1,0 +1,20 @@
+
+
+<!-- HTTPS相关 -->
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-web</artifactId>
+</dependency>
+<!-- 加密相关 -->
+<dependency>
+    <groupId>commons-codec</groupId>
+    <artifactId>commons-codec</artifactId>
+    <version>1.15</version>
+</dependency>
+<!-- 限流 -->
+<dependency>
+    <groupId>com.google.guava</groupId>
+    <artifactId>guava</artifactId>
+    <version>32.1.3-jre</version>
+</dependency>
+
